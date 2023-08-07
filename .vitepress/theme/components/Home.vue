@@ -15,8 +15,8 @@ onMounted(async () => {
   <section id="hero">
     <h1 class="tagline">
       The
-      <span class="accent">Progressive</span>
-      <br />JavaScript Framework
+      <span class="accent">YXJ's First</span>
+      <br />Test Website
     </h1>
     <p class="description">
       An approachable, performant and versatile framework for building web
